@@ -1,2 +1,2 @@
-# Exploring-AWS-Big-Data
+# Exploring AWS Big Data
 Collection of notebooks using AWS Big Data products.
